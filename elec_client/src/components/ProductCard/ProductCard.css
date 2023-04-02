@@ -1,0 +1,21 @@
+.btn_group{
+    display: flex;
+    flex-direction: row;
+    column-gap: 1rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-img-top{
+    display: flex !important;
+    justify-self: center !important;
+    align-self: center !important;
+    width: 240px !important;
+    height: 240px !important;
+    object-fit: contain !important;
+}
+
+.Link{
+    text-decoration: none;
+    color: aliceblue;
+}
