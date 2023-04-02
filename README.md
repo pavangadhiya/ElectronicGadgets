@@ -12,13 +12,14 @@
 
 
 Steps to download and run project..
--->for backend
+
+# backend
 1) create ASP.NET core web API project
 2) Add Models and Controller in that Project 
 3) Do migration and update database.
 4)Build solution
 
--->for Frontend
+# frontend
 1) npm create-react-app <name>
 2) Add components and make changes in app.js
 3) npm start
