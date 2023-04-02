@@ -7,3 +7,18 @@
 # Cart
 
 ![image](https://user-images.githubusercontent.com/91672966/229337375-526f9cd0-240e-4f3e-b572-1b2a0474da7c.png)
+
+
+
+
+Steps to download and run project..
+-->for backend
+1) create ASP.NET core web API project
+2) Add Models and Controller in that Project 
+3) Do migration and update database.
+4)Build solution
+
+-->for Frontend
+1) npm create-react-app <name>
+2) Add components and make changes in app.js
+3) npm start
