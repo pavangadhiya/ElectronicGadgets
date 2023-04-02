@@ -16,8 +16,10 @@ Steps to download and run project..
 # backend
 1) create ASP.NET core web API project
 2) Add Models and Controller in that Project 
-3) Do migration and update database.
-4)Build solution
+3) Do migration and update database in Nuget Package manager console. 
+       -> add-migration " "
+       -> update-database
+4) Build solution
 
 # frontend
 1) npm create-react-app <name>
