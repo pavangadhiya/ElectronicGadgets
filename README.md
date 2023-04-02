@@ -16,9 +16,11 @@ Steps to download and run project..
 # backend
 1) create ASP.NET core web API project
 2) Add Models and Controller in that Project 
-3) Do migration and update database in Nuget Package manager console. 
-       -> add-migration " "
-       -> update-database
+3) Do migration and update database
+(For that run commands in Nuget Package manager console
+        **1) add-migration " "
+        2) update-database**
+        )
 4) Build solution
 
 # frontend
